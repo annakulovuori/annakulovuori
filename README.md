@@ -1,6 +1,6 @@
 # _Hi_ 👋
 
-- 🔭 I’m currently working on recipe-book app
+- 🔭 I’m currently working on recipe-book app and freshening up on node.js with API
 - 🌱 I’m currently learning Spring Boot and JWT
 - 📫 How to reach me: annakulovuori@gmail.com
 
@@ -16,6 +16,8 @@ _Social media app for sharing and finding recipes_
 - _React_
 - _MariaDB_
 - _Material UI_
+
+https://github.com/annakulovuori/recipe-book-app
 
 ### Enerweave 🔋
 _An app for finding suitable home energy management system (HEMS) for users hardwares_
